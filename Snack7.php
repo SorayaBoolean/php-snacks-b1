@@ -57,6 +57,12 @@
 
     ?>
 
+        <?php
+
+         $mediaVoti = 
+         
+         ?>
+
         <ul>
             <?php
                 for($i = 0; $i < count($alunni); $i++){
@@ -66,7 +72,6 @@
                     " | " . $alunnoCorrente['puntiCasa'] . 
                     " - " . $alunnoCorrente['voti'] . 
                     "</li>";
-
 
                 }
             ?>
