@@ -56,12 +56,7 @@
          ];
 
     ?>
-
-        <?php
-
-         $mediaVoti = 
-         
-         ?>
+        
 
         <ul>
             <?php
